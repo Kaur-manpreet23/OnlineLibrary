@@ -1,0 +1,19 @@
+.member-options {
+    display: flex;
+    justify-content: center; /* Centers buttons horizontally */
+    gap: 15px; /* Adjust the gap to your liking */
+    margin-top: 20px; /* Example margin for spacing */
+  }
+  
+  .button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+  }
